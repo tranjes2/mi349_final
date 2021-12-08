@@ -209,7 +209,7 @@ h3 {
     margin-left: 20px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 900px) {
     #nav {
         font-size: .7em;
     }
